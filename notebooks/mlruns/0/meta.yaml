@@ -1,0 +1,4 @@
+artifact_location: /Users/vignesh/Documents/projects/MLOPS/notebooks/mlruns/0
+experiment_id: '0'
+lifecycle_stage: active
+name: Telco Churn - XGBoost

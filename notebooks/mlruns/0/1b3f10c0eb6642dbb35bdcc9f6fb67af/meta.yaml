@@ -1,0 +1,15 @@
+artifact_uri: /Users/vignesh/Documents/projects/MLOPS/notebooks/mlruns/0/1b3f10c0eb6642dbb35bdcc9f6fb67af/artifacts
+end_time: 1778661765756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1b3f10c0eb6642dbb35bdcc9f6fb67af
+run_uuid: 1b3f10c0eb6642dbb35bdcc9f6fb67af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1778661765754
+status: 4
+tags: []
+user_id: vignesh
